@@ -775,12 +775,12 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -1039,4 +1039,29 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+
+.bloc_title-h2 {
+    max-width: 62rem;
+    margin: auto
+}
+
+h2 {
+    font-size: 22px;
+}
+
+.citation {
+    font-size: 18px;
+    max-width: 51rem;
+    margin: auto;
+}
+.citation span {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.portfolio__title-h2{
+    max-width: 42rem;
+    margin: auto;
 }
